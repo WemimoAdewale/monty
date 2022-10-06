@@ -4,7 +4,7 @@
 #include <stddef.h>
 #include <stdlib.h>
 
-#define(INSTRUCTIONS)             \
+#define INSTRUCTIONS             \
 	{                           \
 		{"push", push},       \
 		{"pall", pall},   \
