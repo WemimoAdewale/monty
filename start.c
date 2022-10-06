@@ -3,6 +3,7 @@
 #include <stdio.h>
 #include <string.h>
 #include "monty.h"
+#include <ctype.h>
 
 void file_error(char *argv);
 void error_usage(void);
